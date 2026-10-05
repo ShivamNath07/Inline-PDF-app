@@ -1,0 +1,7 @@
+C:\Users\52470252\OneDrive - Conduent\Desktop\Inline PDF app\InlinePDFApp\bin\Debug\InlinePDFApp.exe.config
+C:\Users\52470252\OneDrive - Conduent\Desktop\Inline PDF app\InlinePDFApp\bin\Debug\InlinePDFApp.exe
+C:\Users\52470252\OneDrive - Conduent\Desktop\Inline PDF app\InlinePDFApp\bin\Debug\InlinePDFApp.pdb
+C:\Users\52470252\OneDrive - Conduent\Desktop\Inline PDF app\InlinePDFApp\obj\Debug\InlinePDFApp.csproj.AssemblyReference.cache
+C:\Users\52470252\OneDrive - Conduent\Desktop\Inline PDF app\InlinePDFApp\obj\Debug\InlinePDFApp.csproj.CoreCompileInputs.cache
+C:\Users\52470252\OneDrive - Conduent\Desktop\Inline PDF app\InlinePDFApp\obj\Debug\InlinePDFApp.exe
+C:\Users\52470252\OneDrive - Conduent\Desktop\Inline PDF app\InlinePDFApp\obj\Debug\InlinePDFApp.pdb
